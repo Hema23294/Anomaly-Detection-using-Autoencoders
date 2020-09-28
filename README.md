@@ -7,7 +7,7 @@ The dataset consisted of multiple .npy files covering NConservatory and SConserv
 
 (I will not be uploading the dataset due to competition rules)
 
-To detect anomalies I used autoencoders in PyTorch. Using the the reconsrtuction error and the no. of values that went beyond the threshold the anomalies were detected.
+To detect anomalies I used autoencoders in PyTorch. Using the the reconstruction error and the no. of values that went beyond the threshold the anomalies were detected.
 
 Formula: X_test_predicted - X_test > Reconstruction error threshold
 
