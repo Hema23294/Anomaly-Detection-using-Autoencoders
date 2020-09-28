@@ -3,7 +3,7 @@
 This project is about predicting the anomalies the from sensor outputs in a 24 hour window. The goal was to provide a count of the number of sensors that went off
 in a particular day. This was detected based on the loss values that went beyond the defined threshold.
 
-The dataset consisted of multiple .npy files covering many NConservatory and SConservatory from the amazon Seattle domes.
+The dataset consisted of multiple .npy files covering NConservatory and SConservatory from the amazon Seattle domes.
 
 (I will not be uploading the dataset due to competition rules)
 
